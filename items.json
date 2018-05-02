@@ -1,0 +1,14 @@
+[
+	{
+		"id": "item_1",
+		"category": "vehicle"
+	},
+	{
+		"id": "item_2",
+		"category": "plant"
+	},
+	{
+		"id": "item_3",
+		"category": "animal"
+	}
+]
